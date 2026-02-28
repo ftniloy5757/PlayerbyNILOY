@@ -32,10 +32,10 @@ Date: 01 March 2026
 ------------------------------------------------------------
 3. DESCRIPTION OF AI USE
 ------------------------------------------------------------
-As a noob in Flutter and app development, AI helped me understand the 
-concept of Drawer navigation and how to build UI components natively in Flutter.
-AI was used to completely translate the Android assignment requirements into Dart code,
-manage local media assets for images/video/audio, and resolve any widget testing errors.
+As a newbie in Flutter and app development, AI helped me understand the 
+concept of drawer navigation and how to build UI components natively in Flutter.
+AI was used to completely translate the requirements into Dart code,
+manage and resolve any widget testing errors.
 
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
