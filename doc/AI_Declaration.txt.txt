@@ -1,0 +1,63 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: FARHAN TANVIR NILOY
+Student ID: 22301329
+Assignment: 02
+Date: 01 March 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[*] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[*] Learning/understanding concepts
+[*] Debugging my code
+[*] Generating code snippets
+[ ] Writing text content
+[*] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+As a noob in Flutter and app development, AI helped me understand the 
+concept of Drawer navigation and how to build UI components natively in Flutter.
+AI was used to completely translate the Android assignment requirements into Dart code,
+manage local media assets for images/video/audio, and resolve any widget testing errors.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart               Section: App Setup
+File: lib/screens/home_screen     Section: Drawer Navigation Layout
+File: lib/screens/image_scale     Section: InteractiveViewer Zoom Logic
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ___NILOY______________
+Date: ______01/03/26_____________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
